@@ -1,4 +1,4 @@
-CREATE DATABASE IF NOT EXISTS companydb;
+CREATE DATABASE IF NOT EXISTS railway;
 
 USE companydb;
 
